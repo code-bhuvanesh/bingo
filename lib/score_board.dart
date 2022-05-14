@@ -1,7 +1,4 @@
-import 'dart:collection';
-
 import 'package:bingo/bingo_box.dart';
-import 'package:bingo/number_box.dart';
 import 'package:flutter/material.dart';
 
 class ScoreBoard extends StatefulWidget {
